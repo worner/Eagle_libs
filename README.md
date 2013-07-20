@@ -1,3 +1,4 @@
+[Poradnik obslugi GitHuba](http://forum.atnel.pl/topic3469.html "Dla tych, co jeszcze nie znaja potegi gita :)")
 Eagle_libs
 ==========
 
